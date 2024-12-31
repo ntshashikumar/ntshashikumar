@@ -1,5 +1,5 @@
 ## Hi there 👋
-<--
+<!--
 **ntshashikumar/ntshashikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... -->
 - I'm Shashikumar N T currently persuing BE in CSE in UBDT College of Engineering
 - 🌱 I’m currently learning Django Framework
-- <--
+- <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
