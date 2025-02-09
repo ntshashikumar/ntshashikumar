@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... -->
 - I'm Shashikumar N T currently persuing BE in CSE in UBDT College of Engineering
 - 🌱 I’m currently learning Django Framework
+- 
 - <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
