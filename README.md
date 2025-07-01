@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
-- I'm Shashikumar N T currently persuing BE in CSE in UBDT College of Engineering
+- I'm Shashikumar N T graduated from UBDTCE in CSE.
 - 🌱 I’m currently learning Django Framework
 - 
 - <!--
