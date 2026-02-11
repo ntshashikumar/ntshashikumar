@@ -5,8 +5,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
-- I'm Shashikumar N T graduated from UBDTCE in CSE.
-- 🌱 I’m currently learning Django Framework.
+- I'm Shashikumar N T graduated from UBDTCE in CSE in 2025.
+- - 🌱 I’m currently learning Spring boot Framework.
+#- 🌱 I’m currently learning Django Framework.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
